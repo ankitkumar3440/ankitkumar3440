@@ -1,4 +1,4 @@
-![Ankit Kumar](https://github.com/ankitkumar3440/Ankit-Kumar/blob/main/student-849822_1920.jpg)
+!--![Ankit Kumar](https://github.com/ankitkumar3440/Ankit-Kumar/blob/main/student-849822_1920.jpg)--!
 
 # Hello, I'm Ankit Kumar 👋
 
