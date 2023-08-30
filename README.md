@@ -14,7 +14,7 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
 ## Tech Enthusiast and Problem Solver
 - 🌱 I’m currently exploring new technologies and learning new skills.
 - 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
-- 📫 How to reach me: [Email](mailto:an12sn14@.com) | [LinkedIn](https://www.linkedin.com/in/ankitkumar3440/)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-an12sn14%40gmail.com-blue?style=for-the-badge)](mailto:an12sn14@gmail.com)  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankitkumar3440/) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under two minutes!
 
@@ -117,9 +117,19 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
 
 Explore my portfolio website to learn more about my work and projects: [Ankit Portfolio](https://ankitkumar3440.github.io/Ankit_portfolio_1010/)
 
-## **Find Me Online**
+## Coding Profiles
 
-[LinkedIn](https://www.linkedin.com/in/ankitkumar3440/)
-[Twitter](https://twitter.com/ankitkumar3440)
+Connect with me on coding platforms:
+- [![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/an12sn12)
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankit2003)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/an12sn14)
+- [![CodeStudio](https://img.shields.io/badge/CodeStudio-FF6F61?style=flat-square)](https://www.codingninjas.com/studio/profile/an12sn14)
 
-Feel free to connect with me and explore more about my work.
+## Connect with Me
+
+Let's connect and discuss ideas! Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankitkumar3440/) or follow me on [![Twitter](https://img.shields.io/badge/Twitter-%40ankitkumar3440-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ankitkumar3440). I'm excited to continue exploring the ever-evolving world of technology and making meaningful contributions along the way..
+
+## Languages
+
+- **English:** Fluent
+- **Hindi:** Native
