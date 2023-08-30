@@ -1,4 +1,4 @@
-!--![Ankit Kumar](https://github.com/ankitkumar3440/Ankit-Kumar/blob/main/student-849822_1920.jpg)--!
+![Ankit Kumar](https://github.com/ankitkumar3440/Ankit-Kumar/blob/main/Gif.gif)
 
 # Hello, I'm Ankit Kumar 👋
 
@@ -56,18 +56,61 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
 
 ## **Projects**
 
-### **Project 1**
+### 1.WhatsApp Clone using Node.js and Socket.io
 
-- **Description:** A web app that [briefly describe the project].
-- **Tech Stack:** React, Node.js, MongoDB
-- **Repository:** [Project 1 Repository](link-to-repo)
+- **Description:** Developed a real-time chat application inspired by WhatsApp using Node.js and Socket.io.
+- **Key Achievements:**
+  - Implemented real-time messaging functionality using WebSockets.
+  - Designed a responsive user interface for a seamless chatting experience.
+  - Integrated user authentication and secure data transfer.
+  - Enhanced user experience with features like message status indicators.
+  - Deployed the application on Heroku for easy access.
+- **Tech Stack:** Node.js, Socket.io, Express.js, HTML, CSS
+- **Repository:** [WhatsApp Clone Repository](https://github.com/ankitkumar3440/ChatApp)
 
-### **Project 2**
+### 2.Portfolio Website
 
-- **Description:** A Python script to [briefly describe the project].
-- **Tech Stack:** Python
-- **Repository:** [Project 2 Repository](link-to-repo)
+- **Description:** Designed and developed a personal portfolio website to showcase my projects and skills.
+- **Key Features:**
+  - Interactive and responsive design.
+  - Showcases a curated selection of my projects.
+  - Provides insight into my skills and tech stack.
+  - Offers an easy way to get in touch.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Repository:** [Portfolio Website Repository](https://github.com/ankitkumar3440/Ankit_portfolio_1010)
 
+### 3.SMS-SPAM-CLASSIFICATION using Machine Learning
+
+- **Description:** Developed a machine learning model to classify SMS messages as spam or not spam.
+- **Key Achievements:**
+  - Preprocessed and cleaned a dataset of SMS messages.
+  - Engineered relevant features from the text data.
+  - Trained a classification model using scikit-learn.
+  - Achieved high accuracy and precision in spam detection.
+  - Deployed the model using Flask to create a simple web app for testing.
+- **Tech Stack:** Python, scikit-learn, Flask
+- **Repository:** [SMS-SPAM-CLASSIFICATION Repository](https://github.com/ankitkumar3440/SMS-SPAM-CLASSIFICATION)
+
+### 4.Movie Recommendation System using Machine Learning
+
+- **Description:** Developed a recommendation system that suggests movies to users based on their preferences and viewing history.
+- **Key Achievements:**
+  - Built collaborative filtering and content-based recommendation algorithms.
+  - Processed and analyzed movie metadata and user interactions.
+  - Created a user-friendly web interface for exploring movie recommendations.
+  - Deployed the system using Flask to make personalized recommendations.
+- **Tech Stack:** Python, scikit-learn, Flask
+
+### 5.Credit Card Fraud Detection using Machine Learning
+
+- **Description:** Developed a machine learning model to detect fraudulent credit card transactions.
+- **Key Achievements:**
+  - Preprocessed and transformed credit card transaction data.
+  - Built and fine-tuned an ensemble model to identify fraudulent activities.
+  - Achieved high accuracy and recall in fraud detection.
+  - Deployed the model using Flask for real-time predictions.
+- **Tech Stack:** Python, scikit-learn, Flask
+- 
 ## **My Portfolio**
 
 [![Portfolio](https://github.com/ankitkumar3440/Ankit-Kumar/blob/main/Screenshot%20(96).png)](https://ankitkumar3440.github.io/Ankit_portfolio_1010/)
