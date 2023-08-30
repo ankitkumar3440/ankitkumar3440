@@ -1,6 +1,10 @@
+![Ankit Kumar](https://github.com/ankitkumar3440/Ankit-Kumar/blob/main/student-849822_1920.jpg)
+
 # Hello, I'm Ankit Kumar 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. Here you'll find some of my personal projects and contributions. Feel free to explore and get in touch.
+
+
 
 ## About Me
 
@@ -62,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. He
 
 ## **My Portfolio**
 
-[![Portfolio](https://example.com/path/to/portfolio-image.jpg)](https://ankitkumar3440.github.io/Ankit_portfolio_1010/)
+[![Portfolio](https://github.com/ankitkumar3440/Ankit-Kumar/blob/main/Screenshot%20(96).png)](https://ankitkumar3440.github.io/Ankit_portfolio_1010/)
 
 Explore my portfolio website to learn more about my work and projects: [Ankit Portfolio](https://ankitkumar3440.github.io/Ankit_portfolio_1010/)
 
