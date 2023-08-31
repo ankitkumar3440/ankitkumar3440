@@ -100,6 +100,7 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
   - Created a user-friendly web interface for exploring movie recommendations.
   - Deployed the system using Flask to make personalized recommendations.
 - **Tech Stack:** Python, scikit-learn, Flask
+- **Repository:** [Movie Recommendation System Repository](https://github.com/ankitkumar3440/Movie_Recommendation_System)
 
 ### 5.Credit Card Fraud Detection using Machine Learning
 
@@ -110,6 +111,7 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
   - Achieved high accuracy and recall in fraud detection.
   - Deployed the model using Flask for real-time predictions.
 - **Tech Stack:** Python, scikit-learn, Flask
+- **Repository:** [Credit Card Fraud Detection Repository](https://github.com/ankitkumar3440/Credit_card_fraud_Detection_project)
 - 
 ## **My Portfolio**
 
