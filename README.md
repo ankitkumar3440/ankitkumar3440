@@ -14,7 +14,7 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
 ## Tech Enthusiast and Problem Solver
 - 🌱 I’m currently exploring new technologies and learning new skills.
 - 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-an12sn14%40gmail.com-blue?style=for-the-badge)](mailto:ankitku95553440@gmail.com)  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankitkumar3440/) 
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-ankitku95553440%40gmail.com-blue?style=for-the-badge)](mailto:ankitku95553440@gmail.com)  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankitkumar3440/) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under two minutes!
 
