@@ -91,7 +91,7 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
 - **Tech Stack:** Python, scikit-learn, Flask
 - **Repository:** [SMS-SPAM-CLASSIFICATION Repository](https://github.com/ankitkumar3440/SMS-SPAM-CLASSIFICATION)
 
-### 4.Movie Recommendation System using Machine Learning
+### 4. Movie Recommendation System using Machine Learning
 
 - **Description:** Developed a recommendation system that suggests movies to users based on their preferences and viewing history.
 - **Key Achievements:**
@@ -102,7 +102,7 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
 - **Tech Stack:** Python, scikit-learn, Flask
 - **Repository:** [Movie Recommendation System Repository](https://github.com/ankitkumar3440/Movie_Recommendation_System)
 
-### 5.Credit Card Fraud Detection using Machine Learning
+### 5.Credit Card Fraud Detection Using Machine Learning
 
 - **Description:** Developed a machine learning model to detect fraudulent credit card transactions.
 - **Key Achievements:**
@@ -125,7 +125,7 @@ Connect with me on coding platforms:
 - [![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/an12sn12)
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankit2003)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Ankit_1010)
-- [![CodeStudio](https://img.shields.io/badge/CodeStudio-FF6F61?style=flat-square)](https://leetcode.com/ankitku_1010/)
+- [![Leetcode](https://img.shields.io/badge/CodeStudio-FF6F61?style=flat-square)](https://leetcode.com/ankitku_1010/)
 
 ## Connect with Me
 
