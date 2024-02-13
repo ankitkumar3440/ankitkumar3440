@@ -124,8 +124,8 @@ Explore my portfolio website to learn more about my work and projects: [Ankit Po
 Connect with me on coding platforms:
 - [![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/an12sn12)
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankit2003)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/an12sn14)
-- [![CodeStudio](https://img.shields.io/badge/CodeStudio-FF6F61?style=flat-square)](https://www.codingninjas.com/studio/profile/an12sn14)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Ankit_1010)
+- [![CodeStudio](https://img.shields.io/badge/CodeStudio-FF6F61?style=flat-square)](https://leetcode.com/ankitku_1010/)
 
 ## Connect with Me
 
