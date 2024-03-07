@@ -117,7 +117,7 @@ I enjoy collaborating on open-source projects and solving intricate coding puzzl
 
 [![Portfolio](https://github.com/ankitkumar3440/Ankit-Kumar/blob/main/Screenshot%20(96).png)](https://ankitkumar3440.github.io/Ankit_portfolio_1010/)
 
-Explore my portfolio website to learn more about my work and projects: [Ankit Portfolio](https://ankitkumar3440.github.io/Ankit_portfolio_1010/)
+Explore my portfolio website to learn more about my work and projects: [Ankit Portfolio]([https://ankitkumar3440.github.io/Ankit_portfolio_1010](https://ankitkuportfolio.netlify.app/)/)
 
 ## Coding Profiles
 
